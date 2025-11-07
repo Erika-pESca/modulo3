@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Matemáticas",
+        "estudiantes": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "nombre": "Historia",
+        "estudiantes": [
+            "2"
+        ]
+    },
+    {
+        "nombre": "Programación",
+        "estudiantes": [
+            "1",
+            "2",
+            "3"
+        ]
+    }
+]
