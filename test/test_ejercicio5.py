@@ -2,7 +2,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
-import modulo3_ejercicios.actividad5_calculadora_impuestos as act5
+import ejercicio5 as act5
 import pytest
 
 # Pruebas para el Ejercicio 5: Calculadora de Impuestos con Scope Global

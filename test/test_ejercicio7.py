@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 import pytest
-from Ejerciciosfinalespython.actividad7_filtrado_estudiantes import (
+from ejercicio7 import (
     filtrar_estudiantes_aprobados,
 )
 

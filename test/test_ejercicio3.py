@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..',
 
 import unittest
 
-from Ejerciciosfinalespython.actividad3_contador_de_llamadas import crear_contador
+from ejercicio3 import crear_contador
 
 
 class TestFabricaContadores(unittest.TestCase):
