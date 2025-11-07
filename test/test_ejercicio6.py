@@ -4,6 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 import pytest
+
 from ejercicio6 import (
     calcular_precios_con_descuento,
 )

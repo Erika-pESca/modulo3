@@ -4,6 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 import pytest
+
 from ejercicio8 import transformar_texto
 
 # Pruebas para el Ejercicio 8: Transformación de Datos con List y Dictionary Comprehensions
